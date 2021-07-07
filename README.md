@@ -1,5 +1,5 @@
 <h1>Hello! My name is Ghazian Tsabit Alkamil</h1>
-<h4>You can call me Zian . I'm a Informatics Engineering Student in Bandung Institute of Technology (ITB)</h4>
+<h4>You can call me Zian . I'm an Informatics Engineering Student in Bandung Institute of Technology (ITB)</h4>
 
 ## Contacts
 <br/>
